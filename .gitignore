@@ -1,0 +1,33 @@
+# Vivado generated files
+*.jou
+*.log
+.Xil/
+vivado_*.str
+
+# Vivado project files (large - recreate from TCL scripts if possible)
+# Uncomment to exclude full project:
+# *.xpr
+# *.xsa
+
+# Bitstream and implementation output
+*.bit
+*.ltx
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.gen/
+
+# Backup files
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE files
+.vscode/
+.idea/
